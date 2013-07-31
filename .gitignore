@@ -19,3 +19,4 @@ local.properties
 .classpath
 .project
 RepackHttpClient/repack-*
+/.README.md.html
