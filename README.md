@@ -40,7 +40,7 @@ Those content can also be found in the directory [RepackHttpClient](https://gith
 * * ** * ** * ** * ** * ** * ** * ** * ** * *
 
 
-<a id="chinese"></a>概要
+概要<a id="chinese" name="chinese"></a>
 -----------------------------------
 这是个演示如何在Android上使用BigFileUploadJava的示例项目。
 
