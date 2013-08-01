@@ -20,3 +20,4 @@ local.properties
 .project
 RepackHttpClient/repack*.jar
 /.README.md.html
+/assets
