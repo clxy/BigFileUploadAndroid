@@ -33,7 +33,8 @@ http*.Jars are Apache HttpComponents need. repack-clxyupload.jar is [BigFileUplo
 java -jar jarjar-1.4.jar process rules.txt httpclient-4.2.5.jar repack-httpclient-4.2.5.jar
 java -jar jarjar-1.4.jar process rules.txt httpcore-4.2.4.jar repack-httpcore-4.2.4.jar
 java -jar jarjar-1.4.jar process rules.txt httpmime-4.2.5.jar repack-httpmime-4.2.5.jar
-java -jar jarjar-1.4.jar process rules.txt clxyupload.jar repack-clxyupload.jar```
+java -jar jarjar-1.4.jar process rules.txt clxyupload.jar repack-clxyupload.jar
+```
   
 Those content can also be found in the directory [RepackHttpClient](https://github.com/clxy/BigFileUploadAndroid/tree/master/RepackHttpClient).
 
@@ -69,6 +70,7 @@ Those content can also be found in the directory [RepackHttpClient](https://gith
 java -jar jarjar-1.4.jar process rules.txt httpclient-4.2.5.jar repack-httpclient-4.2.5.jar
 java -jar jarjar-1.4.jar process rules.txt httpcore-4.2.4.jar repack-httpcore-4.2.4.jar
 java -jar jarjar-1.4.jar process rules.txt httpmime-4.2.5.jar repack-httpmime-4.2.5.jar
-java -jar jarjar-1.4.jar process rules.txt clxyupload.jar repack-clxyupload.jar```
+java -jar jarjar-1.4.jar process rules.txt clxyupload.jar repack-clxyupload.jar
+```
   
 上述内容也可以在目录[RepackHttpClient](https://github.com/clxy/BigFileUploadAndroid/tree/master/RepackHttpClient)中找到。
